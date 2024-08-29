@@ -12,3 +12,4 @@ FastAPI: A modern, fast (high-performance) web framework for building APIs with 
 SQLAlchemy: SQL toolkit and Object-Relational Mapping (ORM) library for managing database operations.<br>
 PostgreSQL: A powerful, open-source relational database system.<br>
 JWT: JSON Web Tokens for secure user authentication.<br>
+Author:Ansar Ul Haq
